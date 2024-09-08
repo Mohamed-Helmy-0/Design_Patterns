@@ -1,0 +1,3 @@
+carId=100;
+bikeId=110;
+truckId=120;

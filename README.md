@@ -1,2 +1,7 @@
 # Design_Patterns
-Cpp Examples of Each Design Pattern
+C++ Examples of Each Design Pattern
+
+## Run Examples 
+### Uese The following command to run Example
+```bash
+g++ main.cpp -o exe && ./exe
